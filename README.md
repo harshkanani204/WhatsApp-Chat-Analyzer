@@ -47,3 +47,4 @@ This will open into a browser where you can upload the chat log text file and vi
 
 Contributions to this project are welcome! To contribute, please fork this repository, make your changes, and submit a pull request.
 
+---
